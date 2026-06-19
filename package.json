@@ -12,6 +12,8 @@
     "firebase": "12.15.0"
   },
   "devDependencies": {
+    "firebase": "^10.8.1",
+5. Guarda los cambios haciendo clic en **"Commit changes..."** (el botón verde arriba a la derecha).
     "@types/react": "19.0.0",
     "@types/react-dom": "19.0.0",
     "loader-utils": "3.2.1",
